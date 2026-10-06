@@ -22,9 +22,3 @@ Buy supplies at the Hub, choose a menu and begin a park shift. Recipe notes are 
 
 ![Hub supply management](hub-preparation.png)
 ![Interior service and cooking](conversation-cooking.png)
-
-## Development
-
-Project concept, game design, art direction and hands-on modelling by Oleg Varshavskiy. Development and asset prototyping include AI assistance through OpenAI Codex, with ongoing author review, modelling and playtesting.
-
-Source code, editable Blender assets and unrelated experimental scenes are kept in a private development repository. This public repository contains showcase material only.
