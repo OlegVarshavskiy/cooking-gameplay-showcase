@@ -4,6 +4,14 @@ An early personal project built with Godot 4, GDScript and Blender. This showcas
 
 The visuals, characters, dialogue and economy are unfinished. This is a gameplay prototype, not a finished game.
 
+## Gameplay video
+
+https://github.com/user-attachments/assets/ca52c20a-9408-4102-979a-8733aac19199
+
+One-minute recording of the supply hub, interior cooking interactions and return to the hub after a shift.
+
+[Download the original recording (MP4)](https://github.com/OlegVarshavskiy/cooking-gameplay-showcase/releases/download/v0.1.0-demo/GamePlayDemoVideo.mp4)
+
 ## Play
 
 Download the Windows demo from Releases, extract the ZIP and run `CookingPrototype.exe` (or `Play Hub.cmd`). No Godot or Blender installation is required.
@@ -22,3 +30,4 @@ Buy supplies at the Hub, choose a menu and begin a park shift. Recipe notes are 
 
 ![Hub supply management](hub-preparation.png)
 ![Interior service and cooking](conversation-cooking.png)
+
